@@ -20,6 +20,7 @@ build /
 * .iml
 * .ipr
 из /
+target/
 
 # ## NetBeans ###
 / nbproject / частный /
